@@ -1,4 +1,4 @@
-#QA Portfolio – FSCM Project (Dummy Data)
+## QA Portfolio – FSCM Project (Dummy Data)
 
 Welcome to my Quality Assurance Portfolio, featuring test design, execution, and reporting examples from a dummy FSCM (Financial Supply Chain Management) system project.
 
