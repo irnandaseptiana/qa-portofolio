@@ -3,7 +3,6 @@
 Welcome to my Quality Assurance Portfolio, featuring test design, execution, and reporting examples from a dummy FSCM (Financial Supply Chain Management) system project.
 
 ## Project Overview
-
 This project simulates QA activities for an FSCM system including:
 - API validation
 - UI functional testing
@@ -23,10 +22,7 @@ This project simulates QA activities for an FSCM system including:
 | **Bug Reporting.pdf** | Sample bug report documentation from JIRA export |
 | **API-Send-Invoice.json** | Postman collection for API functional test |
 
----
-
 ## Tools & Techniques
-
 - **Test Management:** JIRA, Excel  
 - **API Testing:** Postman  
 - **UI Testing:** Manual functional test  
