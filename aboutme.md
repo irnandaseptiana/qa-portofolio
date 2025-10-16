@@ -12,7 +12,8 @@ This project simulates QA activities for an FSCM system including:
 - Demonstrate end-to-end QA process understanding  
 - Showcase test design techniques (scenario & case)  
 - Present real-world bug documentation style  
-- Provide sample API testing using Postman  
+- Provide sample API testing using Postman
+- Highlight collaboration using JIRA or Agile workflow  
 
 ## Repository Structure
 
