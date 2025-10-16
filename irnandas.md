@@ -37,4 +37,4 @@ This project simulates QA activities for an FSCM system including:
 **Irnanda Septiana**  
 Quality Assurance | Manual & API Testing  
 📧 septianairnanda@gmail.com
-🌐 [[LinkedIn Profile – optional]](https://www.linkedin.com/in/irnanda-septiana-04b177251?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+🌐 [[LinkedIn Profile]](https://www.linkedin.com/in/irnanda-septiana-04b177251?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
